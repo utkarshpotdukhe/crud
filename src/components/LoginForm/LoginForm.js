@@ -25,8 +25,8 @@ export const loginUser = async (formData) => {
 
 const LoginForm = () => {
   const [formData, setFormData] = useState({
-    username: 'utkarsh',
-    password: '12345',
+    username: '',
+    password: '',
   });
   const [error, setError] = useState('');
   const navigate = useNavigate();
