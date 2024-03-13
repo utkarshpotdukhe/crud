@@ -5,3 +5,5 @@ username - kminchelle
 
 password - 0lelplR
 
+deploy link - https://crud-usermanager-al2xf9ojt-utkarshpotdukhes-projects.vercel.app/
+
