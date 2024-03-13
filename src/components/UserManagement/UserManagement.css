@@ -1,0 +1,49 @@
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 8px 16px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  .actions-cell {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .btn-warning,
+  .btn-danger {
+    margin: 0 5px;
+  }
+  
+ 
+  .user-management-container {
+    
+    position: relative; 
+  }
+  
+  .button-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+  }
+  
